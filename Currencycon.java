@@ -1,4 +1,4 @@
-//This is a currency converter
+//This is a Currency converter
 import java.util.Scanner;
 
 class CurrencyCon {
@@ -57,7 +57,7 @@ class CurrencyCon {
         System.out.println("CAD: " + result);
         break;
       default:
-        System.out.println("Invalid option. Please select from 1 to 8.");
+        System.out.println("Please select from 1 to 8. INVALID !");
     }
 
     sc.close();
