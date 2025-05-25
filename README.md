@@ -1,0 +1,1 @@
+These are beginner-level Java projects designed to help new programmers practice and understand basic programming concepts such as input/output handling, conditionals, loops, string manipulation, and file reading/writing. They are simple enough for learners to complete quickly but meaningful enough to build confidence in coding skills.
