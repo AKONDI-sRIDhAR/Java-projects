@@ -1,3 +1,4 @@
+//This is a simple ASMD calculator
 import java.util.Scanner;
 
 class Calculator {
