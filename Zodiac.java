@@ -1,3 +1,4 @@
+//This is  a simple zodiac sign finder 
 import java.util.*;
 public class Zodiac {
     static Scanner sc = new Scanner(System.in);
