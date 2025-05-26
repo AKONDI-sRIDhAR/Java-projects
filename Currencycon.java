@@ -1,3 +1,4 @@
+//This is a currency converter
 import java.util.Scanner;
 
 class CurrencyCon {
