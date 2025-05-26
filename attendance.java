@@ -1,3 +1,5 @@
+//This is a simple attendance management system using Files
+//Add your own file path before running the code 
 import java.io.*;
 import java.util.*;
 import java.time.LocalDate;
