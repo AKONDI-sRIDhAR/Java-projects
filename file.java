@@ -1,3 +1,5 @@
+//This project verifies the integrity or generates the hash for a given input file 
+//Dont forget to add your ownpath to the file 
 import java.util.*;
 import java.io.*;
 import java.security.*;
